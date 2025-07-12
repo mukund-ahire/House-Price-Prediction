@@ -98,7 +98,7 @@ Open the notebook inside `notebooks/house_price_model.ipynb` and follow along st
 - **Visual Output**:
 
 <p align="center">
-  <img src="https://via.placeholder.com/600x300.png?text=Actual+vs+Predicted+House+Prices" alt="Actual vs Predicted Plot" />
+  <img src="images/actual_vs_predicted.png" alt="Actual vs Predicted Plot" />
 </p>
 
 The scatter plot above shows the relationship between actual and predicted house prices. Ideally, the points should fall close to the diagonal line (perfect predictions).
