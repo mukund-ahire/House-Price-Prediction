@@ -126,7 +126,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 **Mukund Ahire**  
 Aspiring AI Engineer | Full Stack Developer | Building Intelligent Systems  
-🔗 GitHub: [@your-username](https://github.com/mukund-ahire)
+🔗 GitHub: [mukund-ahire](https://github.com/mukund-ahire)
 
 ---
 
